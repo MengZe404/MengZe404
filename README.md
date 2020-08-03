@@ -33,7 +33,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=openMengZe&show_icons=true&hide_border=true" />
+<img align="left" alt="openMengZe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=openMengZe&show_icons=true&hide_border=true" />
 
 [website]: https://github.com/openMengZe
 [youtube]: https://www.youtube.com/channel/UCeR4xSUmq_Kec6grWLbgRHA
