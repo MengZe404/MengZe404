@@ -12,8 +12,6 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-
 
 <br />
 
@@ -40,4 +38,3 @@
 [website]: https://github.com/openMengZe
 [youtube]: https://www.youtube.com/channel/UCeR4xSUmq_Kec6grWLbgRHA
 [instagram]: https://www.instagram.com/hong.meng.ze/?hl=en
-[email]: hongmengze110@gmail.com
