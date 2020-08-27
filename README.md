@@ -1,7 +1,6 @@
 ### Hi there, I'm MengZe - aka [openMengZe][website] 👋
 
 ## I'm a College Student, Tech Enthusiast, Noob Programmer and ASIAN!
-- 🔭 I’m currently working on CS50 final project!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other talented programmers
 - 🥅 2020 Goals: Be good at Python!
