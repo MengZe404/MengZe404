@@ -1,4 +1,4 @@
-### Hi there, I'm MengZe - aka [openMengZe][website] 👋
+### Hi there, I'm MengZe - aka [MengZe404][website] 👋
 
 ## I'm a College Student, Tech Enthusiast, Noob Programmer and ASIAN!
 - 🌱 I’m currently learning everything 🤣
@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://github.com/openMengZe" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://github.com/MengZe404" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="https://www.youtube.com/channel/UCeR4xSUmq_Kec6grWLbgRHA | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="https://www.instagram.com/hong.meng.ze/?hl=en | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -32,8 +32,8 @@
 
 ---
 
-<img align="left" alt="openMengZe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=openMengZe&show_icons=true&hide_border=true" />
+<img align="left" alt="MengZe404's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MengZe404&show_icons=true&hide_border=true" />
 
-[website]: https://github.com/openMengZe
+[website]: https://github.com/MengZe404
 [youtube]: https://www.youtube.com/channel/UCeR4xSUmq_Kec6grWLbgRHA
 [instagram]: https://www.instagram.com/hong.meng.ze/?hl=en
