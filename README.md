@@ -1,8 +1,8 @@
-### Hi there, I'm MengZe - aka [MengZe404][website] 👋
+# Hi there, I'm MengZe - aka [MengZe404][website] 👋
 
 
 
-## I'm a Maths Student, Tech Enthusiast, Newbie Programmer and ASIAN!
+### I'm a Maths Student, Tech Enthusiast, Newbie Programmer and ASIAN!
 
 - 🌱I’m currently working on my first large scale project - OpenRevise 🤣
 
@@ -19,6 +19,7 @@
 
 
 OpenRevise: https://openrevise.herokuapp.com/blog
+
 
 GNOME Project Manager https://github.com/MengZe404/GNOME-Project-Manager
 
