@@ -1,10 +1,27 @@
 ### Hi there, I'm MengZe - aka [MengZe404][website] 👋
 
-## I'm a College Student, Tech Enthusiast, Noob Programmer and ASIAN!
-- 🌱 I’m currently learning everything 🤣
+
+
+## I'm a Maths Student, Tech Enthusiast, Newbie Programmer and ASIAN!
+
+- 🌱I’m currently working on my first large scale project - OpenRevise 🤣
+
 - 👯 I’m looking to collaborate with other talented programmers
-- 🥅 2020 Goals: Be good at Python!
+
+- 🥅 2022 Goals: Finish the project & Be good at maths!
+
 - ⚡ Fun fact: I love music and maths :xD
+
+  
+
+### My Project
+
+
+
+[OpenRevise]: https://openrevise.herokuapp.com/blog	"OpenRevise"
+[GNOME Project Manager]: https://github.com/MengZe404/GNOME-Project-Manager	"GNOME Project Manager"
+
+
 
 ### Connect with me:
 
@@ -34,6 +51,6 @@
 
 <img align="left" alt="MengZe404's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MengZe404&show_icons=true&hide_border=true" />
 
-[website]: https://github.com/MengZe404
-[youtube]: https://www.youtube.com/channel/UCeR4xSUmq_Kec6grWLbgRHA
-[instagram]: https://www.instagram.com/hong.meng.ze/?hl=en
+[website]: https://github.com/MengZe404	"My Github"
+[youtube]: https://www.youtube.com/channel/UCeR4xSUmq_Kec6grWLbgRHA	"My YouTube Account"
+[instagram]: https://www.instagram.com/hong.meng.ze/?hl=en	"My Instagram"
