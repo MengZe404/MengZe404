@@ -1,10 +1,10 @@
-# Hi there, I'm MengZe - aka [MengZe404][website] 👋
+# Hi there, I'm MengZe - aka [MengZe404][https://mengze.w3spaces.com/] 👋
 
 
 
 ### I'm a Maths Student, Tech Enthusiast, Newbie Programmer and ASIAN!
 
-- 🌱I’m currently working on my first large scale project - OpenRevise 🤣
+- 🌱I’m currently working on my first large scale project - OpenRevise
 
 - 👯 I’m looking to collaborate with other talented programmers
 
