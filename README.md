@@ -1,4 +1,4 @@
-# Hi there, I'm MengZe - aka [MengZe404][https://mengze.w3spaces.com/] 👋
+# Hi there, I'm MengZe - aka [MengZe404](https://mengze.w3spaces.com/) 👋
 
 
 
