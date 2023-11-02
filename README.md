@@ -18,10 +18,10 @@
 
 
 
-OpenRevise: [a community based education resources sharing platform](https://oopdevs.github.io/OpenRevise2/app/pages/master.html)
+[OpenRevise](https://oopdevs.github.io/OpenRevise2/app/pages/master.html): a community based education resources sharing platform
 
 
-GNOME Project Manager: [a project management tool developed for Linux operating system](https://github.com/MengZe404/GNOME-Project-Manager)
+[GNOME Project Manager](https://github.com/MengZe404/GNOME-Project-Manager): a project management tool developed for Linux operating system
 
 
 
