@@ -2,15 +2,15 @@
 
 
 
-### I'm a Maths Student, Tech Enthusiast, Newbie Programmer and ASIAN!
+### I'm a Maths and Data Science Student, Tech Enthusiast, Researcher and ASIAN!
 
-- 🌱I’m currently working on my first large scale project - OpenRevise
+- 🌱I’m currently working on various research projects related to FinTech, LLM and Machine Learning.
 
-- 👯 I’m looking to collaborate with other talented programmers
+- 👯 I’m looking to collaborate with other talented programmers and researchers.
 
-- 🥅 2022 Goals: Finish the project & Be good at maths!
+- 🥅 2023 Goals: Publish research paper in top tier conferences/journals and get accepted for postgraduate studies.
 
-- ⚡ Fun fact: I love music and maths :xD
+- ⚡ Fun fact: Being a young student graduating from undergraduate studies at the age of 20, I wish to complete my PhD degree in 24.
 
   
 
@@ -18,10 +18,10 @@
 
 
 
-OpenRevise: https://openrevise.herokuapp.com/blog
+OpenRevise: [a community based education resources sharing platform](https://oopdevs.github.io/OpenRevise2/app/pages/master.html)
 
 
-GNOME Project Manager https://github.com/MengZe404/GNOME-Project-Manager
+GNOME Project Manager: [a project management tool developed for Linux operating system](https://github.com/MengZe404/GNOME-Project-Manager)
 
 
 
